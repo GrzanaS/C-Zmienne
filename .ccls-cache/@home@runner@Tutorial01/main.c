@@ -5,6 +5,6 @@ int main(void)
   int x=5, y=7;
   const float pi=3.1419;
   
-  printf("Hello World\n");
+  printf("Jak widzisz kurwa x to tak naprawdę widzisz %d\n", x);
   return 0;
 }
